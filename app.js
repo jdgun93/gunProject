@@ -5,7 +5,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
 
-var ranking_con = require('./controllers/GameRankingController');
+var ranking_con = require('./Controllers/GameRankingController');
 
 
 
